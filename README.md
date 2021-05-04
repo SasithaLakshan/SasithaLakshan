@@ -6,7 +6,7 @@
 - :computer: I'm an Undergraduate IT Student of [SLIIT](https://www.sliit.lk)(2020 - 2024).
 - :computer: Currently I'm working on my [Portfolio](https://SasithaLakshan.github.com).
 - :heart: I love to code, design prototypes, build websites and web applications.
-- :heart: Beside those, I'm interested in Mobile App Development and Game Development too.
+- :heart: Beside those, I'm interested in **Mobile App Development** and **Game Development** too.
 - :pencil: I enjoy writing about coding.
 - :electric_plug: **My GOAL: work as a professional Front End Engineer in a vibrant Tech Company**.
 - :octocat: I am open to collaborate with other digital content creators.
