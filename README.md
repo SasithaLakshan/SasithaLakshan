@@ -4,7 +4,6 @@
 <p align="center">
   <img width="360" height="220" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif">
 </p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
 
 - :computer: I'm an Undergraduate IT Student of [SLIIT](https://www.sliit.lk)(2020 - 2024).
@@ -15,3 +14,5 @@
 - :electric_plug: **MY GOAL**: Work as a Professional **Front-End Engineer** in a vibrant Tech Company.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
+
+<h3 align="left">Languages and Tools:</h3>
