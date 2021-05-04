@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>
-<h3 align="center">💻A Passionate Junior Trainee Software Developer based on Sri Lanka</h3>
+<!--<h3 align="center">💻An Passionate Junior Trainee Software Developer based on Sri Lanka</h3>-->
+
+<h3 align="center">An Ungergraduate of [SLIIT](https://www.sliit.lk) & Newbie Front-End Developer</h3>
 
 <p align="center">
   <img width="360" height="220" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif">
