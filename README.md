@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>
 <h3 align="center">💻A Passionate Junior Trainee Front-End Developer based on Sri Lanka</h3>
 
-![alt text](https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif)
+![alt text align=center](https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
 
