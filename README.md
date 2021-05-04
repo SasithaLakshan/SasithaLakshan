@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
 
-- :computer: I'm an Undergraduate IT Student of [SLIIT](www.sliit.lk). 
+- :computer: I'm an Undergraduate IT Student of [SLIIT](https://www.sliit.lk). 
 - :heart: I love to code, design prototypes, build websites and web applications.
 - :pencil: I enjoy writing about coding.
 - :electric_plug: **My GOAL: work as a professional Front-end Developer in a vibrant Tech company**.
