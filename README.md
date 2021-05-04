@@ -2,7 +2,7 @@
 <h3 align="center">💻A Passionate Junior Trainee Front-End Developer based on Sri Lanka</h3>
 
 <p align="center">
-  <img width="360" height="230" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif">
+  <img width="360" height="220" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/FE.gif">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
