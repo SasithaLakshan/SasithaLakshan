@@ -16,7 +16,7 @@
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
-<h3 align="left">Languages I use:</h3>
+<h3 align="left">Languages I'm using and learning:</h3>
 
 <p align="left">
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
