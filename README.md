@@ -15,7 +15,7 @@
 - :electric_plug: **MY GOAL**: Work as a Professional **Front-End Engineer** in a Giant Tech Company.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
-<hr>
+<hr style="height:0.5px">
 <h3 align="left">Languages I'm using & Learning:</h3>
 
 <p align="left">
