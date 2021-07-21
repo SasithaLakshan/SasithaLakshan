@@ -16,6 +16,4 @@
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
 
-
-
- 
+<h3 align="left">Tech Stack I'm Using</h3>
