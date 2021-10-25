@@ -18,18 +18,5 @@
 
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 1,173 Contributions in the Year 2021
- > 
-> 📦 262.5 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 32 Private Repositories  
- > 
-
 
 <!--END_SECTION:waka-->
