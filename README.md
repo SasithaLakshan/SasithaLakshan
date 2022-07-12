@@ -49,7 +49,7 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Colombo
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -64,5 +64,5 @@ Java                     1 repo              ██████░░░░░�
 
 
 
- Last Updated on 11/07/2022 18:44:58 UTC
+ Last Updated on 12/07/2022 18:47:49 UTC
 <!--END_SECTION:waka-->
