@@ -20,22 +20,38 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 187 Contributions in the Year 2022
+ > 
+> 📦 9.6 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.62% 
-🌆 Daytime    73 commits     ███████░░░░░░░░░░░░░░░░░░   28.4% 
+🌆 Daytime    72 commits     ███████░░░░░░░░░░░░░░░░░░   28.02% 
 🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84% 
-🌙 Night      80 commits     ███████░░░░░░░░░░░░░░░░░░   31.13%
+🌙 Night      81 commits     ████████░░░░░░░░░░░░░░░░░   31.52%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
 Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Tuesday      52 commits     █████░░░░░░░░░░░░░░░░░░░░   20.23% 
+Tuesday      51 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84% 
 Wednesday    71 commits     ███████░░░░░░░░░░░░░░░░░░   27.63% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
+Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
 Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
 Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
 Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
@@ -48,7 +64,16 @@ Sunday       23 commits     ██░░░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Asia/Colombo
 
+💬 Programming Languages: 
+No Activity Tracked This Week
+
 🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
@@ -63,6 +88,10 @@ Java                     1 repo              ██████░░░░░�
 ```
 
 
+**Timeline**
 
- Last Updated on 13/07/2022 18:43:40 UTC
+![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
+
+
+ Last Updated on 14/07/2022 18:47:29 UTC
 <!--END_SECTION:waka-->
