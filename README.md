@@ -18,7 +18,7 @@
 
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,5 +93,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 20/07/2022 18:46:56 UTC
+ Last Updated on 17/08/2022 18:49:33 UTC
 <!--END_SECTION:waka-->
