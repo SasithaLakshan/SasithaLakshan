@@ -93,5 +93,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/08/2022 18:46:48 UTC
+ Last Updated on 19/08/2022 18:51:25 UTC
 <!--END_SECTION:waka-->
