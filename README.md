@@ -18,7 +18,7 @@
 
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -36,48 +36,6 @@
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-🌆 Daytime    71 commits     ███████░░░░░░░░░░░░░░░░░░   27.63% 
-🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   19.84% 
-🌙 Night      81 commits     ████████░░░░░░░░░░░░░░░░░   31.52%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.01% 
-Tuesday      50 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.46% 
-Wednesday    72 commits     ███████░░░░░░░░░░░░░░░░░░   28.02% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.45% 
-Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,5 +51,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/09/2022 18:47:25 UTC
+ Last Updated on 04/09/2022 18:47:37 UTC
 <!--END_SECTION:waka-->
