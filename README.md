@@ -36,48 +36,6 @@
  > 
 > 🔑 3 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.95% 
-🌆 Daytime    71 commits     ███████░░░░░░░░░░░░░░░░░░   28.06% 
-🌃 Evening    51 commits     █████░░░░░░░░░░░░░░░░░░░░   20.16% 
-🌙 Night      78 commits     ███████░░░░░░░░░░░░░░░░░░   30.83%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       54 commits     █████░░░░░░░░░░░░░░░░░░░░   21.34% 
-Tuesday      50 commits     █████░░░░░░░░░░░░░░░░░░░░   19.76% 
-Wednesday    68 commits     ██████░░░░░░░░░░░░░░░░░░░   26.88% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.35% 
-Saturday     32 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-Sunday       23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,5 +51,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 18:52:49 UTC
+ Last Updated on 14/09/2022 18:52:07 UTC
 <!--END_SECTION:waka-->
