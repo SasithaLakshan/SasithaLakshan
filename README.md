@@ -28,7 +28,7 @@
 
 > 🏆 203 Contributions in the Year 2022
  > 
-> 📦 10.0 kB Used in GitHub's Storage 
+> 📦 10.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -93,5 +93,5 @@ Java                     1 repo              ██████░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/09/2022 18:55:49 UTC
+ Last Updated on 02/10/2022 18:52:32 UTC
 <!--END_SECTION:waka-->
