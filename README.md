@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>
 <h3 align="center">A Jr. Dev passionate about Front-end & UX/UI</h3>
 
-<!--<h3 align="center">An Undergraduate @ SLIIT</h3>-->
+<h5 align="center">An Undergraduate @ SLIIT</h5>
 
 <p align="center">
   <img width="540" height="330" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/dev.gif">
