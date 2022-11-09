@@ -7,7 +7,7 @@
 <p align="center">
   <img width="540" height="330" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/dev.gif">
 </p>
-<!--<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasithalakshan&label=Profile%20views&color=0e75b6&style=flat" alt="sasithalakshan" /> </p>
 <!--
 - :computer: I'm an Undergraduate IT Student of [SLIIT](https://www.sliit.lk)(2020 - 2024).
 - :computer: Currently I'm working on my <a href="https://SasithaLakshan.github.io" target="_blank">Portfolio</a>
