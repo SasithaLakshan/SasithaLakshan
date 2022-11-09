@@ -23,7 +23,7 @@
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--266%20lines%20of%20code-blue)
-<!--
+
 **🐱 My GitHub Data** 
 
 > 🏆 241 Contributions in the Year 2022
@@ -37,7 +37,7 @@
 > 🔑 4 Private Repositories  
  > 
 **I Mostly Code in SCSS** 
-<!--
+
 ```text
 SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
