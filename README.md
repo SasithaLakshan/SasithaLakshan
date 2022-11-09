@@ -22,13 +22,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-29%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--266%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 239 Contributions in the Year 2022
+> 🏆 241 Contributions in the Year 2022
  > 
-> 📦 11.5 kB Used in GitHub's Storage 
+> 📦 73.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -36,55 +36,14 @@
  > 
 > 🔑 4 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I Mostly Code in SCSS** 
 
 ```text
-🌞 Morning    59 commits     █████░░░░░░░░░░░░░░░░░░░░   21.22% 
-🌆 Daytime    80 commits     ███████░░░░░░░░░░░░░░░░░░   28.78% 
-🌃 Evening    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.42% 
-🌙 Night      85 commits     ███████░░░░░░░░░░░░░░░░░░   30.58%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       55 commits     █████░░░░░░░░░░░░░░░░░░░░   19.78% 
-Tuesday      53 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.06% 
-Wednesday    70 commits     ██████░░░░░░░░░░░░░░░░░░░   25.18% 
-Thursday     21 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.55% 
-Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.83% 
-Saturday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.59% 
-Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.99%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.0% 
 SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
 
 ```
 
@@ -94,5 +53,5 @@ Java                     1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/11/2022 18:44:37 UTC
+ Last Updated on 09/11/2022 18:46:38 UTC
 <!--END_SECTION:waka-->
