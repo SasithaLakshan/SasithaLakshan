@@ -1,6 +1,6 @@
 
-<!--<h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>-->
-<!--<h3 align="center">💻An Passionate Junior Trainee Software Developer based on Sri Lanka</h3>-->
+<h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>
+<h3 align="center">A Jr.Dev passionate about Front-end & UX/UI</h3>
 
 <!--<h3 align="center">An Undergraduate @ SLIIT</h3>
 
