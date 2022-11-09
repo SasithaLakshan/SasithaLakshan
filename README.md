@@ -18,10 +18,11 @@
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
   
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
-<!--START_SECTION:waka-->
-<!--![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
 
-<!--![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--266%20lines%20of%20code-blue)
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--266%20lines%20of%20code-blue)
 <!--
 **🐱 My GitHub Data** 
 
