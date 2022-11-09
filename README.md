@@ -2,7 +2,7 @@
 <h1 align="center">Hi 🙋‍♂️ ,I'm Sasitha</h1>
 <h3 align="center">A Jr. Dev passionate about Front-end & UX/UI</h3>
 
-<i><h5 align="center">Undergrad @ SLIIT</h5><i>
+<i><h5 align="center">Undergrad @ SLIIT</h5></i>
 
 <p align="center">
   <img width="540" height="330" src="https://github.com/SasithaLakshan/SasithaLakshan/blob/main/dev.gif">
@@ -16,8 +16,7 @@
 - :electric_plug: **MY GOAL**: Work as a Professional **Front-End Engineer** in a Giant Tech Company.
 - :octocat: I am open to collaborate with other digital content creators.
 - :books: Learning new things, self driven, hard working and friendly.:smiley:
-
-  <!--
+  
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 <!--START_SECTION:waka-->
 <!--![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
