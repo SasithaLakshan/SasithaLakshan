@@ -22,28 +22,72 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2057%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--266%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-646%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 241 Contributions in the Year 2022
+> 🏆 53 Contributions in the Year 2023
  > 
-> 📦 73.6 kB Used in GitHub's Storage 
+> 📦 73.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 10 Public Repositories 
  > 
-> 🔑 4 Private Repositories  
+> 🔑 5 Private Repositories  
  > 
-**I Mostly Code in SCSS** 
+**I'm a Night 🦉** 
 
 ```text
-SCSS                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Java                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.0%
+🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.64% 
+🌆 Daytime    58 commits     █████░░░░░░░░░░░░░░░░░░░░   19.66% 
+🌃 Evening    66 commits     █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+🌙 Night      116 commits    █████████░░░░░░░░░░░░░░░░   39.32%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       65 commits     █████░░░░░░░░░░░░░░░░░░░░   22.03% 
+Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Wednesday    63 commits     █████░░░░░░░░░░░░░░░░░░░░   21.36% 
+Thursday     39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.22% 
+Friday       19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.44% 
+Saturday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+Sunday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.51%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+Java                     1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Python                   1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+C++                      1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
 
 ```
 
@@ -53,6 +97,6 @@ Python                   1 repo              █████░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/charts/bar_graph.png) 
 
 
- Last Updated on 09/11/2022 18:46:38 UTC
+ Last Updated on 24/01/2023 18:39:18 UTC
 <!--END_SECTION:waka-->
 
