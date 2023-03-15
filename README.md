@@ -91,6 +91,6 @@ Java                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2023 18:46:19 UTC
+ Last Updated on 15/03/2023 18:36:34 UTC
 <!--END_SECTION:waka-->
 
