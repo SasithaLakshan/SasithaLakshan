@@ -65,16 +65,13 @@ Sunday                   89 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Text                     38 mins             ████████████████░░░░░░░░░   64.03 % 
-SCSS                     21 mins             █████████░░░░░░░░░░░░░░░░   35.52 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in HTML** 
@@ -94,6 +91,6 @@ Java                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 31/03/2023 18:33:44 UTC
+ Last Updated on 01/04/2023 18:33:39 UTC
 <!--END_SECTION:waka-->
 
