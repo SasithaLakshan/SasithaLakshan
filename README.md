@@ -65,13 +65,13 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-C#                       0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,6 +91,6 @@ Java                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 17/05/2023 18:33:32 UTC
+ Last Updated on 18/05/2023 18:33:40 UTC
 <!--END_SECTION:waka-->
 
