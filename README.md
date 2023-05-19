@@ -20,7 +20,7 @@
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-386%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,13 +65,17 @@ Sunday                   90 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               6 mins              ███████████████░░░░░░░░░░   61.48 % 
+JSON                     2 mins              ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,6 +95,6 @@ Java                     1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2023 18:33:40 UTC
+ Last Updated on 19/05/2023 18:33:36 UTC
 <!--END_SECTION:waka-->
 
