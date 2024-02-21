@@ -30,8 +30,6 @@
 
 > 📦 524.2 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 11 Public Repositories 
@@ -91,6 +89,6 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 20/02/2024 18:34:52 UTC
+ Last Updated on 21/02/2024 18:34:01 UTC
 <!--END_SECTION:waka-->
 
