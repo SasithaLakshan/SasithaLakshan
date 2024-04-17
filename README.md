@@ -20,7 +20,7 @@
 <!-- <h3 align="left">Tech Stack I'm Using</h3> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-593%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -93,6 +93,6 @@ Python                   2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2024 23:35:19 UTC
+ Last Updated on 17/04/2024 18:33:50 UTC
 <!--END_SECTION:waka-->
 
