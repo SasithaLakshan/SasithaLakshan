@@ -30,6 +30,8 @@
 
 > 📦 537.5 kB Used in GitHub's Storage 
  > 
+> 🏆 82 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -63,17 +65,13 @@ Sunday                   127 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               30 mins             ██████████░░░░░░░░░░░░░░░   40.53 % 
-TOML                     19 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-JSON                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-TypeScript               8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +91,6 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 11/05/2024 18:33:56 UTC
+ Last Updated on 12/05/2024 18:35:13 UTC
 <!--END_SECTION:waka-->
 
