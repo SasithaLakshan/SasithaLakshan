@@ -30,8 +30,6 @@
 
 > 📦 537.6 kB Used in GitHub's Storage 
  > 
-> 🏆 88 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -91,6 +89,6 @@ Java                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/SasithaLakshan/SasithaLakshan/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2024 18:37:29 UTC
+ Last Updated on 29/05/2024 18:36:26 UTC
 <!--END_SECTION:waka-->
 
